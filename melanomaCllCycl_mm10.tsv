@@ -1,0 +1,192 @@
+#Gene name	Cell_type
+Atad2	G1/S
+Blm	G1/S
+Brip1	G1/S
+Casp8ap2	G1/S
+Ccne2	G1/S
+Cdc45	G1/S
+Cdc6	G1/S
+Cdca7	G1/S
+Chaf1b	G1/S
+Clspn	G1/S
+Dscc1	G1/S
+Dtl	G1/S
+E2f8	G1/S
+Exo1	G1/S
+Fen1	G1/S
+Gins2	G1/S
+Gmnn	G1/S
+Hells	G1/S
+Mcm2	G1/S
+Mcm4	G1/S
+Mcm5	G1/S
+Mcm6	G1/S
+Cenpu	G1/S
+Msh2	G1/S
+Nasp	G1/S
+Pcna	G1/S
+Pola1	G1/S
+Pold3	G1/S
+Prim1	G1/S
+Rad51	G1/S
+Rad51ap1	G1/S
+Rfc2	G1/S
+Rpa2	G1/S
+Rrm1	G1/S
+Rrm2	G1/S
+Slbp	G1/S
+Tipin	G1/S
+Tyms	G1/S
+Ubr7	G1/S
+Uhrf1	G1/S
+Ung	G1/S
+Usp1	G1/S
+Wdr76	G1/S
+Anln	G2/M
+Anp32e	G2/M
+Aurka	G2/M
+Aurkb	G2/M
+Birc5	G2/M
+Bub1	G2/M
+Cbx5	G2/M
+Ccnb2	G2/M
+Cdc20	G2/M
+Cdc25c	G2/M
+Cdca2	G2/M
+Cdca3	G2/M
+Cdca8	G2/M
+Cdk1	G2/M
+Cenpa	G2/M
+Cenpe	G2/M
+Cenpf	G2/M
+Ckap2	G2/M
+Ckap2l	G2/M
+Ckap5	G2/M
+Cks1b	G2/M
+Cks2	G2/M
+Ctcf	G2/M
+Dlgap5	G2/M
+Ect2	G2/M
+Fam64a	G2/M
+G2e3	G2/M
+Gas2l3	G2/M
+Gtse1	G2/M
+Hjurp	G2/M
+Hjurp	G2/M
+Hmgb2	G2/M
+Hmmr	G2/M
+Hn1	G2/M
+Kif11	G2/M
+Kif20b	G2/M
+Kif23	G2/M
+Kif2c	G2/M
+Lbr	G2/M
+Mki67	G2/M
+Ncapd2	G2/M
+Ndc80	G2/M
+Nek2	G2/M
+Nuf2	G2/M
+Nusap1	G2/M
+Psrc1	G2/M
+Rangap1	G2/M
+Smc4	G2/M
+Tacc3	G2/M
+Tmpo	G2/M
+Top2a	G2/M
+Tpx2	G2/M
+Ttk	G2/M
+Tubb4b	G2/M
+Ube2c	G2/M
+Anln	melanoma cell cycle genes
+Anp32e	melanoma cell cycle genes
+Asf1b	melanoma cell cycle genes
+Aspm	melanoma cell cycle genes
+Aurkb	melanoma cell cycle genes
+Birc5	melanoma cell cycle genes
+Bub1	melanoma cell cycle genes
+Ccna2	melanoma cell cycle genes
+Ccnb1	melanoma cell cycle genes
+Cdc20	melanoma cell cycle genes
+Cdc45	melanoma cell cycle genes
+Cdc6	melanoma cell cycle genes
+Cdca5	melanoma cell cycle genes
+Cdk1	melanoma cell cycle genes
+Cdkn3	melanoma cell cycle genes
+Cenpf	melanoma cell cycle genes
+Cenpm	melanoma cell cycle genes
+Cenpw	melanoma cell cycle genes
+Cks1b	melanoma cell cycle genes
+Cks2	melanoma cell cycle genes
+Dek	melanoma cell cycle genes
+Dhfr	melanoma cell cycle genes
+Dnmt1	melanoma cell cycle genes
+Dsn1	melanoma cell cycle genes
+Dtl	melanoma cell cycle genes
+Dtymk	melanoma cell cycle genes
+Ezh2	melanoma cell cycle genes
+Fabp5	melanoma cell cycle genes
+Fanci	melanoma cell cycle genes
+Fen1	melanoma cell cycle genes
+Gins2	melanoma cell cycle genes
+Gmnn	melanoma cell cycle genes
+H2afz	melanoma cell cycle genes
+Hat1	melanoma cell cycle genes
+Hmgb1	melanoma cell cycle genes
+Hmgb2	melanoma cell cycle genes
+Pclaf	melanoma cell cycle genes
+Kif22	melanoma cell cycle genes
+Kif2c	melanoma cell cycle genes
+Kifc1	melanoma cell cycle genes
+Kpna2	melanoma cell cycle genes
+Lmnb1	melanoma cell cycle genes
+Mad2l1	melanoma cell cycle genes
+Mcm2	melanoma cell cycle genes
+Mcm4	melanoma cell cycle genes
+Mcm5	melanoma cell cycle genes
+Mcm7	melanoma cell cycle genes
+Cenpu	melanoma cell cycle genes
+Mnd1	melanoma cell cycle genes
+Msh2	melanoma cell cycle genes
+Nasp	melanoma cell cycle genes
+Nudt1	melanoma cell cycle genes
+Nuf2	melanoma cell cycle genes
+Nusap1	melanoma cell cycle genes
+Oip5	melanoma cell cycle genes
+Orc6	melanoma cell cycle genes
+Pbk	melanoma cell cycle genes
+Pcna	melanoma cell cycle genes
+Phf19	melanoma cell cycle genes
+Pola2	melanoma cell cycle genes
+Pttg1	melanoma cell cycle genes
+Racgap1	melanoma cell cycle genes
+Ranbp1	melanoma cell cycle genes
+Rfc3	melanoma cell cycle genes
+Rfc4	melanoma cell cycle genes
+Rfc5	melanoma cell cycle genes
+Rnaseh2a	melanoma cell cycle genes
+Rpl39l	melanoma cell cycle genes
+Rrm1	melanoma cell cycle genes
+Rrm2	melanoma cell cycle genes
+Sae1	melanoma cell cycle genes
+Sdf2l1	melanoma cell cycle genes
+Shcbp1	melanoma cell cycle genes
+Smc4	melanoma cell cycle genes
+Snrnp25	melanoma cell cycle genes
+Tcf19	melanoma cell cycle genes
+Timeless	melanoma cell cycle genes
+Tk1	melanoma cell cycle genes
+Tmem194	melanoma cell cycle genes
+Tmpo	melanoma cell cycle genes
+Top2a	melanoma cell cycle genes
+Tpx2	melanoma cell cycle genes
+Troap	melanoma cell cycle genes
+Tuba1b	melanoma cell cycle genes
+Tubb6	melanoma cell cycle genes
+Tubg1	melanoma cell cycle genes
+Tyms	melanoma cell cycle genes
+Ube2c	melanoma cell cycle genes
+Ube2t	melanoma cell cycle genes
+Vrk1	melanoma cell cycle genes
+Wdr34	melanoma cell cycle genes
+Zwilch	melanoma cell cycle genes
+Zwint	melanoma cell cycle genes

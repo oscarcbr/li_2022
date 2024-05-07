@@ -1,0 +1,4 @@
+#NOTE: This is a reference file including "source" as the prefix of the output files as unique label to the case study; "bam_root_fldr" is an existing output folder to write structured symbolic links to the input bam files for the samples of interest;
+#            "BAM_src" if a specifically structured folder for each sample following a nesting from the original uncompressed sequence files. "smpls" is a list of samples of interest to build the loom output.
+#source bam_root_fldr	out_root_fldr	BAM_src	smpls
+allMouse_expnd_Kif1bW2r_nWyLate_eP5nP14nP90_oAllOthrMnk	allMouse_expnd_Kif1bW2r_nWyLate_eP5nP14nP90_oAllOthrMnk/bam.d	allMouse_expnd_Kif1bW2r_nWyLate_eP5nP14nP90_oAllOthrMnk/looms.d	$BAM_src	SS2_19_190|SS2_19_194|SS2_19_196|SS2_19_318|SS2_19_320|SS2_20_009|SS2_20_011|SS2_20_043|SS2_20_049|SS2_20_051|SS2_20_053|SS2_20_055|SS2_20_057
